@@ -1,7 +1,7 @@
 # Portfolio Project: Sales & Commissions Analysis with Excel
 
 ## Project Overview
-# This project is a **professional simulation** designed to demonstrate advanced Excel capabilities in a business environment, specifically focusing on logistics and sales operations. The objective was to transform a raw dataset of 14,000+ records into an actionable tool for calculating sales commissions and analyzing regional performance.
+This project is a **professional simulation** designed to demonstrate advanced Excel capabilities in a business environment, specifically focusing on logistics and sales operations. The objective was to transform a raw dataset of 14,000+ records into an actionable tool for calculating sales commissions and analyzing regional performance.
 
 ## 🛠️ Skills & Functions Demonstrated
 - **Data Cross-Referencing:** Implementation of `VLOOKUP` and `HLOOKUP` to automate the retrieval of pricing and agent information.
