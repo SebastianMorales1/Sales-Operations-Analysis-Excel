@@ -7,6 +7,7 @@ This project is a **professional simulation** designed to demonstrate advanced E
 This project provides a comprehensive analysis of sales performance across US regions and sales representatives using an interactive Excel dashboard. By transforming raw transaction data into visual insights, this tool enables stakeholders to monitor key dynamic graphics, identify operational gaps, and drive data-driven growth strategies.
 
 ## 📖 Data Storytelling: Visual Insights & Strategy
+![alt text](<Graphic example of Excel operation analysis-1.jpg>)
 
 ### 1. Regional Dominance (Donut Chart)
 - The Sales Distribution by Region shows a heavy concentration of revenue in two specific areas.
