@@ -33,8 +33,6 @@ This project provides a comprehensive analysis of sales performance across US re
 - Stabilize Growth: Implement seasonal stabilization strategies to manage the volatility observed in the monthly trends.
 
 ## 🛠️ Skills & Functions Demonstrated
-- **Data Cross-Referencing:** Implementation of `VLOOKUP` and `HLOOKUP` to automate the retrieval of pricing and agent information.
-- **Business Logic:** Use of logical functions (`IF`, `AND`, `OR`) to establish tiered commission structures based on sales modality (Phone, Web, Live).
 - **Data Integrity:** Applied data cleaning techniques (deduplication, text-to-columns, and data validation) to ensure accurate reporting.
 - **Reporting & Visualization:** Creation of **Pivot Tables** and **Slicers** to summarize sales by region and identify top-performing agents.
 
